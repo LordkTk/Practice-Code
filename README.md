@@ -11,7 +11,7 @@ https://www.learnopencv.com/face-swap-using-opencv-c-python/
 
 Source images:
 
-![Image text](Face Affine/imgs/Clinton.jpg)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/1.jpg)
 
 ![Image text](Face Affine/imgs/Trump.png)
 

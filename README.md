@@ -11,18 +11,18 @@ https://www.learnopencv.com/face-swap-using-opencv-c-python/
 
 Source images:
 
-![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/1.jpg)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/Clinton.jpg)
 
-![Image text](Face Affine/imgs/Trump.png)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/Trump.png)
 
 Output:
 
-![Image text](Face Affine/imgs/1.jpg)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/1.jpg)
 
-![Image text](Face Affine/imgs/2.jpg)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/2.jpg)
 
-![Image text](Face Affine/imgs/3.jpg)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/3.jpg)
 
-![Image text](Face Affine/imgs/4.jpg)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/4.jpg)
 
-![Image text](Face Affine/imgs/5.jpg)
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Face%20Affine/imgs/5.jpg)

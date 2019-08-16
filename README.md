@@ -35,8 +35,8 @@ Source images:
 
 Output:
 
-![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Lane%20Detection/imgs/1.jpg)   ![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Lane%20Detection/imgs/2.jpg)
-
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Lane%20Detection/imgs/1.jpg)   
+![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Lane%20Detection/imgs/2.jpg)
 ![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Lane%20Detection/imgs/3.jpg)
 
 ![Image text](https://github.com/LordkTk/Practice-Code/blob/master/Lane%20Detection/imgs/4.jpg)
